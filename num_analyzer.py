@@ -1,3 +1,8 @@
+"""
+    *   Developer   : Sepehr Hosseini
+    *   Email       : Sepgamer87@Gmail.Com
+    *   Description : # This program shows ingredient of number of cookies requested.
+    """
 # This program shows the int number is even or odd and, it's 0, grater than 0 or lower than 0.
 
 # This statement gets number from user.
